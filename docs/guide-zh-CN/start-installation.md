@@ -235,8 +235,8 @@
    
 等待完成后，在浏览器中访问如下URL即可
 
-* frontend: http://y2aa-frontend.test
-* backend: http://y2aa-backend.test
+* frontend: http://mrh.ru
+* backend: http://admin.mrh.ru
    
 #### Windows 用户手册
 
@@ -254,8 +254,8 @@
 7. 添加如下代码到 [hosts 文件](https://en.wikipedia.org/wiki/Hosts_(file)):
    
    ```
-   192.168.83.137 y2aa-frontend.test
-   192.168.83.137 y2aa-backend.test
+   192.168.83.137 mrh.ru
+   192.168.83.137 admin.mrh.ru
    ```
 
 8. 打开终端 (`cmd.exe`), **切换路径至项目根目录** 并且执行如下命令:
@@ -269,6 +269,6 @@
 
 等待完成后，在浏览器中访问如下URL即可
 
-* frontend: http://y2aa-frontend.test
-* backend: http://y2aa-backend.test
+* frontend: http://mrh.ru
+* backend: http://admin.mrh.ru
 

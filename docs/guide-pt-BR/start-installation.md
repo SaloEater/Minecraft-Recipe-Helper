@@ -228,8 +228,8 @@ Esta é a forma mais simples porém, mais demorada (~20 min).
    ```
    
 Isso é tudo. Basta aguardar a conclusão! Após isso você pode acessar o projeto localmente pelas URLs:
-* frontend: http://y2aa-frontend.test
-* backend: http://y2aa-backend.test
+* frontend: http://mrh.ru
+* backend: http://admin.mrh.ru
 
 #### Manual para usuários Windows
 
@@ -247,8 +247,8 @@ Isso é tudo. Basta aguardar a conclusão! Após isso você pode acessar o proje
 7. Adicione as seguintes linhas no [arquivo de hosts](https://pt.wikipedia.org/wiki/Hosts_(arquivo)):
    
    ```
-   192.168.83.137 y2aa-frontend.test
-   192.168.83.137 y2aa-backend.test
+   192.168.83.137 mrh.ru
+   192.168.83.137 admin.mrh.ru
    ```
    
 8. Abra o terminal (`cmd.exe`), **entre no diretório raiz do projeto** e execute os comandos:
@@ -261,6 +261,6 @@ Isso é tudo. Basta aguardar a conclusão! Após isso você pode acessar o proje
    (Você pode ler [aqui](http://pt.wikihow.com/Alterar-Diret%C3%B3rios-no-Prompt-de-Comandos) como alterar diretórios no prompt de comando) 
 
 Isso é tudo. Basta aguardar a conclusão! Após isso você pode acessar o projeto localmente pelas URLs:
-* frontend: http://y2aa-frontend.test
-* backend: http://y2aa-backend.test
+* frontend: http://mrh.ru
+* backend: http://admin.mrh.ru
 

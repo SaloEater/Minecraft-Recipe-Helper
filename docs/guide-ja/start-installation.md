@@ -251,8 +251,8 @@ Bower と NPM の依存パッケージを Composer によって管理するた�
    ```
    
 これで全部です。後はただ完了するのを待つだけです。完了後には、次の URL でローカルのプロジェクトにアクセスすることが出来ます。
-* フロントエンド: http://y2aa-frontend.test
-* バックエンド: http://y2aa-backend.test
+* フロントエンド: http://mrh.ru
+* バックエンド: http://admin.mrh.ru
    
 #### Windows ユーザ用マニュアル
 
@@ -277,8 +277,8 @@ Bower と NPM の依存パッケージを Composer によって管理するた�
    (コマンド・プロンプトでディレクトリを移動する方法については、[ここ](http://www.wikihow.com/Change-Directories-in-Command-Prompt) を読んでください) 
 
 これで全部です。後はただ完了するのを待つだけです。完了後には、次の URL でローカルのプロジェクトにアクセスすることが出来ます。
-* フロントエンド: http://y2aa-frontend.test
-* バックエンド: http://y2aa-backend.test
+* フロントエンド: http://mrh.ru
+* バックエンド: http://admin.mrh.ru
 
 
 ### Docker を使ってインストールする

@@ -251,8 +251,8 @@ This way is the easiest but long (~20 min).
    ```
    
 That's all. You just need to wait for completion! After that you can access project locally by URLs:
-* frontend: http://y2aa-frontend.test
-* backend: http://y2aa-backend.test
+* frontend: http://mrh.ru
+* backend: http://admin.mrh.ru
    
 #### Manual for Windows users
 
@@ -277,8 +277,8 @@ That's all. You just need to wait for completion! After that you can access proj
    (You can read [here](http://www.wikihow.com/Change-Directories-in-Command-Prompt) how to change directories in command prompt) 
 
 That's all. You just need to wait for completion! After that you can access project locally by URLs:
-* frontend: http://y2aa-frontend.test
-* backend: http://y2aa-backend.test
+* frontend: http://mrh.ru
+* backend: http://admin.mrh.ru
 
 
 ### Installing using Docker

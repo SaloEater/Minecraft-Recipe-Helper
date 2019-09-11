@@ -249,8 +249,8 @@ C'est la manière la plus facile mais elle prend du temps (~20 min).
    ```
    
 C'est tout. Il ne vous reste plus qu'à attendre la fin de l'exécution ! Après cela, vous pouvez accéder au projet localement par les URL :
-* pour l'interface utilisateur : http://y2aa-frontend.test
-* pour l'interface d'administration : http://y2aa-backend.test
+* pour l'interface utilisateur : http://mrh.ru
+* pour l'interface d'administration : http://admin.mrh.ru
    
 #### Manuel pour les utilisateurs de Windows
 
@@ -268,8 +268,8 @@ C'est tout. Il ne vous reste plus qu'à attendre la fin de l'exécution ! Aprè
 7. Ajoutez les lignes suivantes dans le  [fichier hosts](https://en.wikipedia.org/wiki/Hosts_(file)):
    
    ```
-   192.168.83.137 y2aa-frontend.test
-   192.168.83.137 y2aa-backend.test
+   192.168.83.137 mrh.ru
+   192.168.83.137 admin.mrh.ru
    ```
 
 8. Ouvrez un terminal (`cmd.exe`), **placez-vous à la racine du projet** et exécutez les commandes :
@@ -282,6 +282,6 @@ C'est tout. Il ne vous reste plus qu'à attendre la fin de l'exécution ! Aprè
    (Vous pouvez apprendre comment changer de dossier dans l'interpréteur de commande en lisant [ceci](http://www.wikihow.com/Change-Directories-in-Command-Prompt))
 
 C'est tout. Il ne vous reste qu'à attendre la fin de l'exécution ! Après cela, vous pouvez accéder au projet localement par les URL :
-* pour l'interface utilisateur : http://y2aa-frontend.test
-* pour l'interface d'administration : http://y2aa-backend.test
+* pour l'interface utilisateur : http://mrh.ru
+* pour l'interface d'administration : http://admin.mrh.ru
 

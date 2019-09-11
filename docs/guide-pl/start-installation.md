@@ -253,8 +253,8 @@ wykonuj kolejne kroki!
    
 To wszystko. Teraz tylko musisz poczekać na zakończenie procesu! Po wszystkim możesz przejść do lokalnego projektu za 
 pomocą adresów URL:
-* front-end: http://y2aa-frontend.test
-* back-end: http://y2aa-backend.test
+* front-end: http://mrh.ru
+* back-end: http://admin.mrh.ru
    
 #### Instrukcje dla użytkowników Windows
 
@@ -272,8 +272,8 @@ pomocą adresów URL:
 7. Dodaj poniższe linie do [pliku hostów](https://en.wikipedia.org/wiki/Hosts_(file)):
    
    ```
-   192.168.83.137 y2aa-frontend.test
-   192.168.83.137 y2aa-backend.test
+   192.168.83.137 mrh.ru
+   192.168.83.137 admin.mrh.ru
    ```
 
 8. Otwórz terminal (`cmd.exe`), **zmień folder na folder główny projektu** i uruchom komendy:
@@ -287,5 +287,5 @@ pomocą adresów URL:
 
 To wszystko. Teraz tylko musisz poczekać na zakończenie procesu! Po wszystkim możesz przejść do lokalnego projektu za 
 pomocą adresów URL:
-* front-end: http://y2aa-frontend.test
-* back-end: http://y2aa-backend.test
+* front-end: http://mrh.ru
+* back-end: http://admin.mrh.ru

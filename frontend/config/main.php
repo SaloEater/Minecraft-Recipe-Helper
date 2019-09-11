@@ -36,14 +36,17 @@ return [
         'errorHandler' => [
             'errorAction' => 'site/error',
         ],
-        /*
         'urlManager' => [
             'enablePrettyUrl' => true,
             'showScriptName' => false,
             'rules' => [
+                '<alias:\w+>' => 'site/<alias>',
+                'item/<id:\d+>' => 'item/view',
+                'recipe/<id:\d+>' => 'recipe/view',
+                'recipe/<id:\d+>/<amount>' => 'recipe/view',
             ],
         ],
-        */
+
     ],
     'params' => $params,
 ];
